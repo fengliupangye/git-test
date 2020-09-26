@@ -9,4 +9,7 @@ public class FistClass {
         System.out.println("22222");
         System.out.println("333333");
     }
+    public void test(){
+        int i=1;
+    }
 }
